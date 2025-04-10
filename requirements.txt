@@ -1,0 +1,11 @@
+async-timeout==5.0.1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+everapi==0.1.1
+freecurrencyapi==0.1.0
+idna==3.10
+lxml==5.3.2
+pyTelegramBotAPI==4.26.0
+redis==5.2.1
+requests==2.32.3
+urllib3==2.3.0
